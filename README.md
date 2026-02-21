@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://davexx-sessionpair.onrender.com/pair">
-    <img src="https://img.shields.io/badge/Get-Pair_Code-purple?style=for-the-badge&logo=whatsapp" alt="Get Pair Code" width="180">
+    <img src="https://img.shields.io/badge/Get-Pair_Code-purple?style=for-the-badge&logo=whatsapp" alt="Get Pair Code" width="200">
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://github.com/Davex-254/DAVE-X/fork">
-    <img src="https://img.shields.io/badge/Fork-DAVE--X-blue?style=for-the-badge&logo=github" alt="Fork DAVE-X" width="180">
+    <img src="https://img.shields.io/badge/Fork-DAVE--X-blue?style=for-the-badge&logo=github" alt="Fork DAVE-X" width="200">
   </a>
-  &nbsp;&nbsp;
+
   <a href="https://github.com/Davex-254/DAVE-X/archive/refs/heads/main.zip">
-    <img src="https://img.shields.io/badge/Download-Zip-green?style=for-the-badge&logo=download" alt="Direct Download ZIP" width="180">
+    <img src="https://img.shields.io/badge/Download-Zip-green?style=for-the-badge&logo=download" alt="Direct Download ZIP" width="200">
   </a>
 </p>
 
@@ -23,19 +23,28 @@
 <div align="center">
   <table>
     <tr>
-      <td width="250" align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" width="160"/></a></td>
-      <td width="250" align="center"><a href="https://replit.com/github/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white" width="160"/></a></td>
+      <!-- Heroku -->
+      <td><a href="https://dashboard.heroku.com/new?template=https://github.com/Davex-254/DAVE-X" target="_blank">
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=rocket&logoColor=white"/>
+</a></td>
+      <!-- Replit -->
+      <td><a href="https://replit.com/github/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Replit-F26207?style=for-the-badge&logo=replit&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td width="250" align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white" width="160"/></a></td>
-      <td width="250" align="center"><a href="https://railway.app/new/template?template=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white" width="160"/></a></td>
+      <!-- Koyeb -->
+      <td><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Railway -->
+      <td><a href="https://railway.app/new/template?template=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td width="250" align="center"><a href="https://render.com/deploy?repo=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" width="160"/></a></td>
-      <td width="250" align="center"><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" width="160"/></a></td>
+      <!-- Render -->
+      <td><a href="https://render.com/deploy?repo=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=007FFF"/></a></td>
+      <!-- Netlify -->
+      <td><a href="https://app.netlify.com/start/deploy?repository=https://github.com/Davex-254/DAVE-X" target="_blank"><img src="https://img.shields.io/badge/Netlify-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
     </tr>
     <tr>
-      <td width="250" align="center" colspan="2"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white" width="160"/></a></td>
+      <!-- Katabump (spanning both columns) -->
+      <td colspan="2" align="center"><a href="https://dashboard.katabump.com/auth/login#ce51a9" target="_blank"><img src="https://img.shields.io/badge/Katabump-FF6B6B?style=for-the-badge&logo=cloudflare&logoColor=white"/></a></td>
     </tr>
   </table>
 </div>
@@ -44,7 +53,7 @@
 
 <p align="center">
   <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
-    <img src="https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white" width="240"/>
+    <img src="https://img.shields.io/badge/Watch-Tutorial-red?style=for-the-badge&logo=youtube&logoColor=white" width="200">
   </a>
 </p>
 
@@ -55,7 +64,7 @@
 
 <p align="center">
   <a href="https://youtu.be/wJKMV0BSqpE?si=6Y11rPD0t2ykoxB8" target="_blank">
-    <img src="https://img.shields.io/badge/▶️_Click_Here_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="320"/>
+    <img src="https://img.shields.io/badge/▶️_Click_Here_to_Watch-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="300">
   </a>
 </p>
 
