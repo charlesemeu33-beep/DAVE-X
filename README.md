@@ -73,7 +73,7 @@
 ### 👨‍💻 Author: **Dave Tech**
 
 > Built with passion by Dave Tech. Enjoying the bot? Check out my movies site for entertainment!  
-> 🎬 **Visit:** [**DAVEXMOVIES - Stream Movies & TV Shows**](https://www.davex-moviezone.zone.id/auth)
+> 🎬 **Visit:** [**DAVEXMOVIES - Stream Movies & TV Shows**](https://www.davex-moviezone.zone.id)
 
 ## 📌 Important Notes
 
