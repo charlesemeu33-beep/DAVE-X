@@ -1,3 +1,4 @@
+
 services:
   - type: worker
     name: dave-x
@@ -7,9 +8,17 @@ services:
     buildCommand: "npm install"
     startCommand: "node index.js"
     envVars:
+      - key: OWNER_NAME
+        value: "Dave"
+        required: true
+      - key: BOT_PREFIX
+        value: "."
+        required: false
+      - key: AUTO_STATUS
+        value: "true"
+        required: false
       - key: SESSION_ID
         value: ""
         required: true
-      - key: PORT
-        value: "3000"
-        required: false
+    ports:
+      - port: 3000

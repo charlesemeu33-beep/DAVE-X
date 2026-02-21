@@ -2,25 +2,19 @@
   "name": "DAVE-X",
   "description": "Dave X, simple Whatsapp bot by Dave!",
   "logo": "https://h.uguu.se/GiYWpWoC.jpg",
-  "keywords": [],
   "repository": "https://github.com/Davex-254/DAVE-X",
   "stack": "container",
-  "addons": [
-    {
-      "plan": "heroku-postgresql"
-    }
-  ],
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'DAVE-AI:~'.",
       "value": "",
       "required": true
     }
-  },  
+  },
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "basic"
+      "size": "eco"
     }
   }
 }
